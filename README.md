@@ -57,9 +57,23 @@ Step 8: Relationship Analysis
 Use pairplots to visualize relationships between multiple features.
 
 
+# How to run
 
+1. open the notebook in google colab using the given link below
+2. run the program
+3. Visualizations like histograms, boxplots, and heatmaps will appear as graphical plots.
 
 
 # Google colab link
 
 https://colab.research.google.com/drive/1CpodnEXJyY23hlV9l4it72zANn1ZzzOF?usp=sharing
+
+# Conclusion
+
+The EDA process helps uncover critical insights from the Breast Cancer dataset:
+
+Certain features like mean radius, mean area, and mean perimeter are strong indicators of malignancy.
+
+Visualizations reveal clear differences in feature distributions between benign and malignant tumors.
+
+This analysis lays a solid foundation for building an accurate machine learning model for breast cancer classification.
