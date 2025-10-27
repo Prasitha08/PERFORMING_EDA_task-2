@@ -1,4 +1,4 @@
-# PERFORMING_EDA_task-2
+# 📊PERFORMING_EDA_task-2
 **Introduction**
 
 Breast cancer is one of the most common cancers affecting women worldwide. Early diagnosis plays a vital role in improving survival rates and treatment outcomes.
@@ -8,7 +8,7 @@ EDA helps to visualize relationships between attributes, identify key features d
 
 The dataset contains 30 features (e.g., radius, texture, smoothness, symmetry) derived from a digitized image of a fine needle aspirate (FNA) of a breast mass. Each record is labeled as malignant (cancerous) or benign (non-cancerous).
 
-# How It Works
+# 🎯How It Works
 
 The project uses a structured EDA workflow to explore and visualize the dataset:
 
@@ -32,14 +32,14 @@ Step 7: Hypothesis Testing
 Step 8: Relationship Analysis
 
 
-# How to run
+# 📈How to run
 
 1. open the notebook in google colab using the given link below
 2. run the program
 3. Visualizations like histograms, boxplots, and heatmaps will appear as graphical plots.
 
 
-# Google colab link
+# 🧾Google colab link
 
 https://colab.research.google.com/drive/1CpodnEXJyY23hlV9l4it72zANn1ZzzOF?usp=sharing
 
