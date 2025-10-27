@@ -1,5 +1,5 @@
 # PERFORMING_EDA_task-2
-**1. Introduction**
+**Introduction**
 
 Breast cancer is one of the most common cancers affecting women worldwide. Early diagnosis plays a vital role in improving survival rates and treatment outcomes.
 This project focuses on performing Exploratory Data Analysis (EDA) on the Breast Cancer Wisconsin Dataset to understand patterns, trends, and correlations among various tumor features.
@@ -8,7 +8,7 @@ EDA helps to visualize relationships between attributes, identify key features d
 
 The dataset contains 30 features (e.g., radius, texture, smoothness, symmetry) derived from a digitized image of a fine needle aspirate (FNA) of a breast mass. Each record is labeled as malignant (cancerous) or benign (non-cancerous).
 
-**2. How It Works**
+# How It Works
 
 The project uses a structured EDA workflow to explore and visualize the dataset:
 
