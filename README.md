@@ -60,6 +60,6 @@ Use pairplots to visualize relationships between multiple features.
 
 
 
-# google colab link
+# Google colab link
 
 https://colab.research.google.com/drive/1CpodnEXJyY23hlV9l4it72zANn1ZzzOF?usp=sharing
